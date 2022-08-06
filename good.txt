@@ -2,4 +2,4 @@ aaaaaaaa
 bbbbbbbbbbbbb
 iiiiiiiiiiii
 jjjjjjjjjjjjj!master test
-在hot-fix分支加入了一些代码
+在hot-fix分支加入了一些代码 hot-fix add
